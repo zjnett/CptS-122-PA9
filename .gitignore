@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Avoid mirroring entire SFML library
+SFML-2.5.1-windows-vc14-32-bit/
+
 # User-specific files
 *.rsuser
 *.suo
